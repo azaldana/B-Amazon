@@ -1,12 +1,12 @@
 # B-Amazon
 
-LIRI is a Language Interpretation and Recognition Interface.
+B-Amazon is an Amazon-like storefront that uses MySQL and node.
 
-<!-- [LIRI Video Link](https://drive.google.com/file/d/1jZNPppFQ0LX_8AMnIiq4CYGmo9zPu_6e/view?usp=sharing "LIRI Video Link") -->
+[B-Amazon Video Link](https://drive.google.com/file/d/1J1J2NAZ_wflPGD-Vd2zBXQsZFdYcpr0g/view "B-Amazon Video Link")
 
 ## Description
 
-LIRI will be a command line node app that takes in parameters and gives you back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDb for movies. If no song is provided in your search for spotify then your program will default to "The Sign" by Ace of Base. If the user doesn't type a movie in the search for OMDb, the program will output data for the movie 'Mr. Nobody.'
+B-Amazon is an Amazon-like storefront that uses MySQL and node to take in orders from customers and deplete stock from the store's inventory. Running this application will first display all of the items available for sale and will then prompt the user to select a product they would like to buy and the quantity and will then show the user the total amount for their purchases. The quantity will be updated in the MySQL database. 
  
 
 ## Sample View
@@ -21,7 +21,4 @@ LIRI will be a command line node app that takes in parameters and gives you back
 
 + Javascript
 + Node
-+ Moment.js
-+ Spotify API
-+ OMDb API
-+ Bands in Town API
++ MySQL
