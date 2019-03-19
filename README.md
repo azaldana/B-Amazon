@@ -2,7 +2,7 @@
 
 B-Amazon is an Amazon-like storefront that uses MySQL and node.
 
-[B-Amazon Video Link](https://drive.google.com/file/d/1J1J2NAZ_wflPGD-Vd2zBXQsZFdYcpr0g/view "B-Amazon Video Link")
+[B-Amazon Customer Video Link](https://drive.google.com/file/d/1J1J2NAZ_wflPGD-Vd2zBXQsZFdYcpr0g/view "B-Amazon Customer Video Link")
 
 ## Description
 
@@ -10,9 +10,9 @@ B-Amazon is an Amazon-like storefront that uses MySQL and node to take in orders
  
 
 ## Sample View
-<!-- 
-![LIRI Bot Screenshot](/assets/images/screenshot-01.jpg/)
-![LIRI Bot Screenshot](/assets/images/screenshot-02.jpg/)
+
+![B-Amazon Screenshot](/images/screenshot-01.jpg/)
+<!-- ![LIRI Bot Screenshot](/assets/images/screenshot-02.jpg/)
 ![LIRI Bot Screenshot](/assets/images/screenshot-03.jpg/)
 ![LIRI Bot Screenshot](/assets/images/screenshot-04.jpg/)
 ![LIRI Bot Screenshot](/assets/images/screenshot-05.jpg/) -->
