@@ -18,6 +18,7 @@ In the 'Manager View', the user will be able to view all products for sale, view
 ![B-Amazon Customer Screenshot](/images/screenshot-01.jpg/)
 
 ## Sample View Manager View
+![B-Amazon Manager Screenshot](/images/screenshot-05.jpg/)
 ![B-Amazon Manager Screenshot](/images/screenshot-02.jpg/)
 ![B-Amazon Manager Screenshot](/images/screenshot-03.jpg/)
 ![B-Amazon Manager Screenshot](/images/screenshot-04.jpg/)
