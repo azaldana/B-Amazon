@@ -23,7 +23,7 @@ function readProducts() {
     console.log("Selecting all products...\n");
     connection.query("SELECT item_id, product_name, price FROM products", function (err, res) {
         if (err) throw err;
-        
+
         console.table(res);
 
         inquirer.prompt({
@@ -66,7 +66,7 @@ function askQuantity(item_id) {
               } else {
                 console.log("This item has been successfully added to your cart. ");
 
-                newQuantity = parseInt(currentStock) - parseInt(user.quantity);
+                var newQuantity = parseInt(currentStock) - parseInt(user.quantity);
 
                 connection.query("UPDATE products SET stock_quantity = ? WHERE item_id = ?", [newQuantity , item_id ], function (err, res) {
                 
