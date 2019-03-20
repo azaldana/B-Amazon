@@ -13,9 +13,11 @@ B-Amazon is an Amazon-like storefront that uses MySQL and node to take in orders
 In the 'Manager View', the user will be able to view all products for sale, view products that are low on inventory, add inventory to any products, and add a completely new product. 
  
 
-## Sample View
+## Sample View Customer View
 
 ![B-Amazon Customer Screenshot](/images/screenshot-01.jpg/)
+
+## Sample View Manager View
 ![B-Amazon Manager Screenshot](/images/screenshot-02.jpg/)
 ![B-Amazon Manager Screenshot](/images/screenshot-03.jpg/)
 ![B-Amazon Manager Screenshot](/images/screenshot-04.jpg/)
